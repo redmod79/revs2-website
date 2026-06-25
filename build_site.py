@@ -686,55 +686,6 @@ def copy_overrides():
         print(f"  WARNING: {src} not found")
 
 
-def generate_deploy_yml():
-    """Generate .github/workflows/deploy.yml."""
-    deploy_dir = PROJECT_ROOT / ".github" / "workflows"
-    deploy_dir.mkdir(parents=True, exist_ok=True)
-    content = """name: Deploy MkDocs to GitHub Pages
-
-on:
-  push:
-    branches: [master]
-  workflow_dispatch:
-
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
-      - run: pip install mkdocs-material
-      - run: mkdocs build
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: site
-
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
-"""
-    (deploy_dir / "deploy.yml").write_text(content, encoding="utf-8")
-    print(f"  Generated deploy.yml")
-
-
 def generate_gitignore():
     """Generate .gitignore."""
     content = """site/
@@ -835,7 +786,6 @@ def main():
 
     # Generate supporting files
     print("\n[8/8] Generating supporting files...")
-    generate_deploy_yml()
     generate_gitignore()
     generate_readme(study_folders)
 
