@@ -1,0 +1,55 @@
+/* Version toggle button */
+.version-toggle-wrap {
+  display: flex;
+  align-items: center;
+  margin-left: 0.5rem;
+}
+
+.version-toggle-btn {
+  background: var(--md-primary-fg-color);
+  color: var(--md-primary-bg-color);
+  border: none;
+  padding: 0.2rem 0.75rem;
+  border-radius: 1rem;
+  cursor: pointer;
+  font-size: 0.7rem;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+  transition: opacity 0.15s;
+}
+
+.version-toggle-btn:hover {
+  opacity: 0.85;
+}
+
+[data-md-color-scheme="slate"] .version-toggle-btn {
+  background: var(--md-accent-fg-color);
+  color: #000;
+}
+
+/* Make inline cross-reference links more visible */
+.md-content a[href*="../"]:not(.md-nav__link):not(.md-footer__link) {
+  color: #7c4dff;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 2px;
+}
+
+.md-content a[href*="../"]:not(.md-nav__link):not(.md-footer__link):hover {
+  color: #651fff;
+  text-decoration-style: solid;
+  background-color: rgba(124, 77, 255, 0.1);
+  border-radius: 2px;
+  padding: 0 2px;
+}
+
+/* Dark mode adjustments */
+[data-md-color-scheme="slate"] .md-content a[href*="../"]:not(.md-nav__link):not(.md-footer__link) {
+  color: #b388ff;
+}
+
+[data-md-color-scheme="slate"] .md-content a[href*="../"]:not(.md-nav__link):not(.md-footer__link):hover {
+  color: #e040fb;
+  background-color: rgba(179, 136, 255, 0.15);
+}

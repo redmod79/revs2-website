@@ -1,0 +1,17 @@
+# Cross-Testament Parallels
+
+- Rev 11:15 → Rev 16:17 (nt, vocabulary + structural (VP096, Strong, 4 links: seventh position, great voice, ginomai declaration, naos origin))
+- Rev 11:19 → Rev 15:5 (nt, vocabulary + structural (VP082, Moderate, 3 links: anoigo/opened, naos/temple, en to ourano/in heaven))
+- Rev 10:7 → Rev 15:1 (nt, vocabulary (VP084, Minimal, 2 links: etelesthe/etelesthe + tou Theou))
+- Rev 9:7 → Joel 2:4 (ot, allusion (AN031, Strong: horse-like appearance, chariot noise, battle array, fire))
+- Rev 11:4 → Zech 4:14 (ot, explicit quotation (AN038: two olive trees/anointed ones standing before the Lord of the earth))
+- Rev 10:5-6 → Dan 12:7 (ot, structural replication with inversion (VP090, Strong, 5 links: waters, hand raised, oath, time declaration, creation context))
+- Rev 11:19 → Lev 16:2 (ot, allusion (AN040, Probable: ark visibility + Day of Atonement))
+- Rev 15:8 → Lev 16:17 (ot, structural echo (VP097, Moderate, 3 links: no man, tabernacle/temple, during atonement/plagues))
+- Rev 11:15 → Dan 7:14 (ot, kingdom transfer (everlasting dominion given to Son of Man))
+- Rev 11:18 → Psa 2:1-2 (ot, nations rage against God's anointed)
+- Rev 10:9-10 → Ezek 2:9-3:3 (ot, scroll-eating (AN037, Strong: divine command, written scroll, sweet in mouth; modified with intrinsic bitterness))
+- Rev 11:19 → Exo 19:16-19 (ot, Sinai theophany formula (TM057: thunders, lightnings, voice, earthquake))
+- Rev 11:5-6 → 1 Kings 17:1 (ot, Elijah powers (AN039: shutting heaven, 3.5-year drought))
+- Rev 11:5 → Jer 5:14 (ot, fire from mouth = God's word as fire)
+- Rev 11:6 → Exo 7:17-20 (ot, Moses powers (AN039: water to blood))

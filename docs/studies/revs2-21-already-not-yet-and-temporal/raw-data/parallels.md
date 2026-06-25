@@ -1,0 +1,15 @@
+# Cross-Testament Parallels
+
+- Rev 12:9 → Isa 27:1 (ot, vocabulary — serpent/dragon imagery)
+- Rev 12:9 → Gen 3:14 (ot, serpent identity — 'that old serpent')
+- Rev 12:9 → Rev 20:2 (nt, direct verbal parallel — four-title identification repeated)
+- Rev 12:9 → Luke 10:18 (nt, Satan's fall — 'I beheld Satan as lightning fall from heaven')
+- Rev 11:15 → Dan 2:44 (ot, kingdom establishment — 'God of heaven set up a kingdom')
+- Rev 11:15 → Dan 7:27 (ot, kingdom given to saints — 'kingdom and dominion given to people of saints')
+- Rev 11:15 → Rev 12:10 (nt, parallel kingdom announcement — highest NT parallel (0.507))
+- Rev 14:8 → Isa 21:9 (ot, verbal doublet — Hebrew naphal naphal mirrors Greek epesen epesen (manual link))
+- Rev 22:10 → Dan 12:4 (ot, deliberate inversion — seal (Dan 12:4) vs. do NOT seal (Rev 22:10))
+- Rev 22:10 → Rev 1:3 (nt, inclusio — 'ho kairos engus' bookends entire book (0.396))
+- Rev 1:1 → Dan 2:28 (ot, verbal echo — 'ha dei genesthai' (what must come to pass) — same words verbatim)
+- Jhn 12:31 → Dan 7:22 (ot, judgment vocabulary — cosmic judgment imagery)
+- Jhn 12:31 → Rev 12:9 (nt, same event, different tense — John 12:31 future (ekblēthēsetai G1544) vs. Rev 12:9 aorist (eblēthē G906))

@@ -1,0 +1,18 @@
+# Cross-Testament Parallels
+
+- Rev 6:2 → Rev 19:11-16 (nt, contrastive parallel — VP073 Minimal positive, Strong contrastive. 4 differences (crown type, weapon, identification, company) vs. 2 shared (white horse, going forth))
+- Rev 6:8 → Ezek 14:21 (ot, vocabulary + structural — AN024 Strong allusion. 4+ shared items: sword, famine, beasts, pestilence/death)
+- Rev 6:9 → Gen 4:10-11 (ot, vocabulary + thematic — blood-cry personification tradition. sphazo chain connects Abel to the fifth seal martyrs)
+- Rev 6:12-14 → Matt 24:29 (nt, vocabulary — VP208 Strong, 4 shared terms: helios, selene, aster, pipto. Densest overlap in the Olivet-Seals comparison)
+- Rev 6:12 → Joel 2:31 (ot, vocabulary — 'sun to darkness, moon to blood' precise verbal parallel)
+- Rev 6:14 → Isa 34:4 (ot, vocabulary — 'heavens rolled as scroll' direct verbal source)
+- Rev 6:16 → Hos 10:8 (ot, vocabulary — 'say to mountains cover us, hills fall on us' direct verbal source)
+- Rev 7:3 → Ezek 9:4-6 (ot, vocabulary + structural — AN020 Strong, 4+ shared elements: mark/seal + foreheads + protection before judgment + angelic agents)
+- Rev 6:1-8 → Zech 1:8-12 (ot, structural + vocabulary — AN025 Probable allusion. Colored horses, dual function: horsemen AND 'how long' cry at Zech 1:12)
+- Rev 6:1-8 → Zech 6:1-8 (ot, structural — AN025 Probable. Four colored horse-chariots, function transformed from patrol to judgment)
+- Rev 6:8 → Lev 26:21-26 (ot, structural — covenant-curse framework. Same four judgments: beasts, sword, pestilence, famine)
+- Rev 5:5-6 → Rev 7:4-9 (nt, structural — VP069 Moderate hear/see pattern. Lion/Lamb parallels 144,000/great multitude)
+- Rev 7:17 → Rev 21:4 (nt, vocabulary — VP067 Moderate. Identical phrase 'God shall wipe away all tears from their eyes')
+- Rev 6:10 → Rev 19:2 (nt, vocabulary — VP076 Strong, 5 links. Vindication arc: ekdikeis (present) → exedikesen (aorist). Tense shift marks resolution)
+- Rev 5:1 → Ezek 2:9-10 (ot, vocabulary — opisthograph parallel. Scroll written on both sides)
+- Rev 7:3-4 → Rev 14:1-3 (nt, vocabulary — VP066 Strong, 4 shared elements: sealing, foreheads, 144,000, servants/Father's name)

@@ -1,0 +1,580 @@
+site_name: "Revelation's Architecture"
+site_description: "A 40-study structural and interpretive analysis of Revelation. 1,368 catalogued items across structural elements and evidence."
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: deep purple
+      accent: orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep purple
+      accent: orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - toc.follow
+  font:
+    text: Roboto
+    code: Roboto Mono
+  custom_dir: overrides
+
+plugins:
+  - search
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+extra:
+  social:
+    - icon: fontawesome/solid/book-bible
+      link: /
+
+extra_javascript:
+  - javascripts/verse-popup.js
+  - javascripts/study-breadcrumbs.js
+  - javascripts/external-links.js
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Studies:
+
+    # ── Module 1 -- Foundational Architecture ──
+    - "Module 1 -- Foundational Architecture":
+
+      - "01 -- Structural Markers":
+        - studies/revs2-01-structural-markers/conclusion-simple.md
+        - Conclusion: studies/revs2-01-structural-markers/CONCLUSION.md
+        - Analysis: studies/revs2-01-structural-markers/03-analysis.md
+        - Verses: studies/revs2-01-structural-markers/02-verses.md
+        - Word Studies: studies/revs2-01-structural-markers/04-word-studies.md
+        - Topics: studies/revs2-01-structural-markers/01-topics.md
+        - Research Scope: studies/revs2-01-structural-markers/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/revs2-01-structural-markers/raw-data/greek-parsing.md
+          - "Cross-Testament Parallels": studies/revs2-01-structural-markers/raw-data/parallels.md
+      - "02 -- Structural Key & Frame":
+        - studies/revs2-02-structural-key-and-frame/conclusion-simple.md
+        - Conclusion: studies/revs2-02-structural-key-and-frame/CONCLUSION.md
+        - Analysis: studies/revs2-02-structural-key-and-frame/03-analysis.md
+        - Verses: studies/revs2-02-structural-key-and-frame/02-verses.md
+        - Word Studies: studies/revs2-02-structural-key-and-frame/04-word-studies.md
+        - Topics: studies/revs2-02-structural-key-and-frame/01-topics.md
+        - Research Scope: studies/revs2-02-structural-key-and-frame/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/revs2-02-structural-key-and-frame/raw-data/greek-parsing.md
+          - "Cross-Testament Parallels": studies/revs2-02-structural-key-and-frame/raw-data/parallels.md
+      - "03 -- Throne Room Anchor":
+        - studies/revs2-03-throne-room-anchor/conclusion-simple.md
+        - Conclusion: studies/revs2-03-throne-room-anchor/CONCLUSION.md
+        - Analysis: studies/revs2-03-throne-room-anchor/03-analysis.md
+        - Verses: studies/revs2-03-throne-room-anchor/02-verses.md
+        - Word Studies: studies/revs2-03-throne-room-anchor/04-word-studies.md
+        - Topics: studies/revs2-03-throne-room-anchor/01-topics.md
+        - Research Scope: studies/revs2-03-throne-room-anchor/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/revs2-03-throne-room-anchor/raw-data/greek-parsing.md
+          - "Cross-Testament Parallels": studies/revs2-03-throne-room-anchor/raw-data/parallels.md
+      - "04 -- Babylon-Bride Mirror":
+        - studies/revs2-04-babylon-bride-mirror/conclusion-simple.md
+        - Conclusion: studies/revs2-04-babylon-bride-mirror/CONCLUSION.md
+        - Analysis: studies/revs2-04-babylon-bride-mirror/03-analysis.md
+        - Verses: studies/revs2-04-babylon-bride-mirror/02-verses.md
+        - Word Studies: studies/revs2-04-babylon-bride-mirror/04-word-studies.md
+        - Topics: studies/revs2-04-babylon-bride-mirror/01-topics.md
+        - Research Scope: studies/revs2-04-babylon-bride-mirror/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/revs2-04-babylon-bride-mirror/raw-data/greek-parsing.md
+          - "Cross-Testament Parallels": studies/revs2-04-babylon-bride-mirror/raw-data/parallels.md
+      - "05 -- Structural Threads":
+        - studies/revs2-05-structural-threads/conclusion-simple.md
+        - Conclusion: studies/revs2-05-structural-threads/CONCLUSION.md
+        - Analysis: studies/revs2-05-structural-threads/03-analysis.md
+        - Verses: studies/revs2-05-structural-threads/02-verses.md
+        - Word Studies: studies/revs2-05-structural-threads/04-word-studies.md
+        - Topics: studies/revs2-05-structural-threads/01-topics.md
+        - Research Scope: studies/revs2-05-structural-threads/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/revs2-05-structural-threads/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/revs2-05-structural-threads/raw-data/hebrew-parsing.md
+          - "Cross-Testament Parallels": studies/revs2-05-structural-threads/raw-data/parallels.md
+
+    # ── Module 2 -- Seven Letters ──
+    - "Module 2 -- Seven Letters":
+
+      - "06 -- Seven Letters Architecture":
+        - studies/revs2-06-seven-letters-architecture/conclusion-simple.md
+        - Conclusion: studies/revs2-06-seven-letters-architecture/CONCLUSION.md
+        - Analysis: studies/revs2-06-seven-letters-architecture/03-analysis.md
+        - Verses: studies/revs2-06-seven-letters-architecture/02-verses.md
+        - Word Studies: studies/revs2-06-seven-letters-architecture/04-word-studies.md
+        - Topics: studies/revs2-06-seven-letters-architecture/01-topics.md
+        - Research Scope: studies/revs2-06-seven-letters-architecture/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/revs2-06-seven-letters-architecture/raw-data/greek-parsing.md
+          - "Cross-Testament Parallels": studies/revs2-06-seven-letters-architecture/raw-data/parallels.md
+      - "07 -- Chiastic Letters":
+        - studies/revs2-07-chiastic-letters-and-identifications/conclusion-simple.md
+        - Conclusion: studies/revs2-07-chiastic-letters-and-identifications/CONCLUSION.md
+        - Analysis: studies/revs2-07-chiastic-letters-and-identifications/03-analysis.md
+        - Verses: studies/revs2-07-chiastic-letters-and-identifications/02-verses.md
+        - Word Studies: studies/revs2-07-chiastic-letters-and-identifications/04-word-studies.md
+        - Topics: studies/revs2-07-chiastic-letters-and-identifications/01-topics.md
+        - Research Scope: studies/revs2-07-chiastic-letters-and-identifications/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/revs2-07-chiastic-letters-and-identifications/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/revs2-07-chiastic-letters-and-identifications/raw-data/hebrew-parsing.md
+          - "Cross-Testament Parallels": studies/revs2-07-chiastic-letters-and-identifications/raw-data/parallels.md
+      - "08 -- Overcomer Promises":
+        - studies/revs2-08-overcomer-promises/conclusion-simple.md
+        - Conclusion: studies/revs2-08-overcomer-promises/CONCLUSION.md
+        - Analysis: studies/revs2-08-overcomer-promises/03-analysis.md
+        - Verses: studies/revs2-08-overcomer-promises/02-verses.md
+        - Word Studies: studies/revs2-08-overcomer-promises/04-word-studies.md
+        - Topics: studies/revs2-08-overcomer-promises/01-topics.md
+        - Research Scope: studies/revs2-08-overcomer-promises/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/revs2-08-overcomer-promises/raw-data/greek-parsing.md
+          - "Cross-Testament Parallels": studies/revs2-08-overcomer-promises/raw-data/parallels.md
+
+    # ── Module 3 -- Seal Sequence ──
+    - "Module 3 -- Seal Sequence":
+
+      - "09 -- Seals 1-6":
+        - studies/revs2-09-seals-1-through-6/conclusion-simple.md
+        - Conclusion: studies/revs2-09-seals-1-through-6/CONCLUSION.md
+        - Analysis: studies/revs2-09-seals-1-through-6/03-analysis.md
+        - Verses: studies/revs2-09-seals-1-through-6/02-verses.md
+        - Word Studies: studies/revs2-09-seals-1-through-6/04-word-studies.md
+        - Topics: studies/revs2-09-seals-1-through-6/01-topics.md
+        - Research Scope: studies/revs2-09-seals-1-through-6/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/revs2-09-seals-1-through-6/raw-data/greek-parsing.md
+          - "Cross-Testament Parallels": studies/revs2-09-seals-1-through-6/raw-data/parallels.md
+      - "10 -- Seventh Seal & Transition":
+        - studies/revs2-10-seventh-seal-and-transition/conclusion-simple.md
+        - Conclusion: studies/revs2-10-seventh-seal-and-transition/CONCLUSION.md
+        - Analysis: studies/revs2-10-seventh-seal-and-transition/03-analysis.md
+        - Verses: studies/revs2-10-seventh-seal-and-transition/02-verses.md
+        - Word Studies: studies/revs2-10-seventh-seal-and-transition/04-word-studies.md
+        - Topics: studies/revs2-10-seventh-seal-and-transition/01-topics.md
+        - Research Scope: studies/revs2-10-seventh-seal-and-transition/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/revs2-10-seventh-seal-and-transition/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/revs2-10-seventh-seal-and-transition/raw-data/hebrew-parsing.md
+          - "Cross-Testament Parallels": studies/revs2-10-seventh-seal-and-transition/raw-data/parallels.md
+
+    # ── Module 4 -- Trumpet & Bowl Sequences ──
+    - "Module 4 -- Trumpet & Bowl Sequences":
+
+      - "11 -- Trumpets 1-4":
+        - studies/revs2-11-trumpets-1-through-4/conclusion-simple.md
+        - Conclusion: studies/revs2-11-trumpets-1-through-4/CONCLUSION.md
+        - Analysis: studies/revs2-11-trumpets-1-through-4/03-analysis.md
+        - Verses: studies/revs2-11-trumpets-1-through-4/02-verses.md
+        - Word Studies: studies/revs2-11-trumpets-1-through-4/04-word-studies.md
+        - Topics: studies/revs2-11-trumpets-1-through-4/01-topics.md
+        - Research Scope: studies/revs2-11-trumpets-1-through-4/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/revs2-11-trumpets-1-through-4/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/revs2-11-trumpets-1-through-4/raw-data/hebrew-parsing.md
+          - "Cross-Testament Parallels": studies/revs2-11-trumpets-1-through-4/raw-data/parallels.md
+      - "12 -- Three Woes & Interlude":
+        - studies/revs2-12-three-woes-and-interlude/conclusion-simple.md
+        - Conclusion: studies/revs2-12-three-woes-and-interlude/CONCLUSION.md
+        - Analysis: studies/revs2-12-three-woes-and-interlude/03-analysis.md
+        - Verses: studies/revs2-12-three-woes-and-interlude/02-verses.md
+        - Word Studies: studies/revs2-12-three-woes-and-interlude/04-word-studies.md
+        - Topics: studies/revs2-12-three-woes-and-interlude/01-topics.md
+        - Research Scope: studies/revs2-12-three-woes-and-interlude/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/revs2-12-three-woes-and-interlude/raw-data/greek-parsing.md
+          - "Cross-Testament Parallels": studies/revs2-12-three-woes-and-interlude/raw-data/parallels.md
+      - "13 -- Bowls & Final Judgment":
+        - studies/revs2-13-bowls-and-final-judgment/conclusion-simple.md
+        - Conclusion: studies/revs2-13-bowls-and-final-judgment/CONCLUSION.md
+        - Analysis: studies/revs2-13-bowls-and-final-judgment/03-analysis.md
+        - Verses: studies/revs2-13-bowls-and-final-judgment/02-verses.md
+        - Word Studies: studies/revs2-13-bowls-and-final-judgment/04-word-studies.md
+        - Topics: studies/revs2-13-bowls-and-final-judgment/01-topics.md
+        - Research Scope: studies/revs2-13-bowls-and-final-judgment/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/revs2-13-bowls-and-final-judgment/raw-data/greek-parsing.md
+          - "Cross-Testament Parallels": studies/revs2-13-bowls-and-final-judgment/raw-data/parallels.md
+
+    # ── Module 5 -- Symbolic Numbers ──
+    - "Module 5 -- Symbolic Numbers":
+
+      - "14 -- Seven Spirits & Thunders":
+        - studies/revs2-14-seven-spirits-and-thunders/conclusion-simple.md
+        - Conclusion: studies/revs2-14-seven-spirits-and-thunders/CONCLUSION.md
+        - Analysis: studies/revs2-14-seven-spirits-and-thunders/03-analysis.md
+        - Verses: studies/revs2-14-seven-spirits-and-thunders/02-verses.md
+        - Word Studies: studies/revs2-14-seven-spirits-and-thunders/04-word-studies.md
+        - Topics: studies/revs2-14-seven-spirits-and-thunders/01-topics.md
+        - Research Scope: studies/revs2-14-seven-spirits-and-thunders/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/revs2-14-seven-spirits-and-thunders/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/revs2-14-seven-spirits-and-thunders/raw-data/hebrew-parsing.md
+          - "Cross-Testament Parallels": studies/revs2-14-seven-spirits-and-thunders/raw-data/parallels.md
+      - "15 -- Seven Heads & Beatitudes":
+        - studies/revs2-15-seven-heads-and-beatitudes/conclusion-simple.md
+        - Conclusion: studies/revs2-15-seven-heads-and-beatitudes/CONCLUSION.md
+        - Analysis: studies/revs2-15-seven-heads-and-beatitudes/03-analysis.md
+        - Verses: studies/revs2-15-seven-heads-and-beatitudes/02-verses.md
+        - Word Studies: studies/revs2-15-seven-heads-and-beatitudes/04-word-studies.md
+        - Topics: studies/revs2-15-seven-heads-and-beatitudes/01-topics.md
+        - Research Scope: studies/revs2-15-seven-heads-and-beatitudes/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/revs2-15-seven-heads-and-beatitudes/raw-data/greek-parsing.md
+          - "Cross-Testament Parallels": studies/revs2-15-seven-heads-and-beatitudes/raw-data/parallels.md
+      - "16 -- Christ's Declarations & Hymns":
+        - studies/revs2-16-christ-declarations-and-hymns/conclusion-simple.md
+        - Conclusion: studies/revs2-16-christ-declarations-and-hymns/CONCLUSION.md
+        - Analysis: studies/revs2-16-christ-declarations-and-hymns/03-analysis.md
+        - Verses: studies/revs2-16-christ-declarations-and-hymns/02-verses.md
+        - Word Studies: studies/revs2-16-christ-declarations-and-hymns/04-word-studies.md
+        - Topics: studies/revs2-16-christ-declarations-and-hymns/01-topics.md
+        - Research Scope: studies/revs2-16-christ-declarations-and-hymns/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/revs2-16-christ-declarations-and-hymns/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/revs2-16-christ-declarations-and-hymns/raw-data/hebrew-parsing.md
+          - "Cross-Testament Parallels": studies/revs2-16-christ-declarations-and-hymns/raw-data/parallels.md
+      - "17 -- Numbers 12 and 4":
+        - studies/revs2-17-numbers-12-and-4/conclusion-simple.md
+        - Conclusion: studies/revs2-17-numbers-12-and-4/CONCLUSION.md
+        - Analysis: studies/revs2-17-numbers-12-and-4/03-analysis.md
+        - Verses: studies/revs2-17-numbers-12-and-4/02-verses.md
+        - Word Studies: studies/revs2-17-numbers-12-and-4/04-word-studies.md
+        - Topics: studies/revs2-17-numbers-12-and-4/01-topics.md
+        - Research Scope: studies/revs2-17-numbers-12-and-4/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/revs2-17-numbers-12-and-4/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/revs2-17-numbers-12-and-4/raw-data/hebrew-parsing.md
+          - "Cross-Testament Parallels": studies/revs2-17-numbers-12-and-4/raw-data/parallels.md
+      - "18 -- Time Periods & Millennium":
+        - studies/revs2-18-time-periods-and-millennium/conclusion-simple.md
+        - Conclusion: studies/revs2-18-time-periods-and-millennium/CONCLUSION.md
+        - Analysis: studies/revs2-18-time-periods-and-millennium/03-analysis.md
+        - Verses: studies/revs2-18-time-periods-and-millennium/02-verses.md
+        - Word Studies: studies/revs2-18-time-periods-and-millennium/04-word-studies.md
+        - Topics: studies/revs2-18-time-periods-and-millennium/01-topics.md
+        - Research Scope: studies/revs2-18-time-periods-and-millennium/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/revs2-18-time-periods-and-millennium/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/revs2-18-time-periods-and-millennium/raw-data/hebrew-parsing.md
+          - "Cross-Testament Parallels": studies/revs2-18-time-periods-and-millennium/raw-data/parallels.md
+
+    # ── Module 6 -- Interpretive Frameworks ──
+    - "Module 6 -- Interpretive Frameworks":
+
+      - "19 -- Unholy Trinity & Parody":
+        - studies/revs2-19-unholy-trinity-and-parody/conclusion-simple.md
+        - Conclusion: studies/revs2-19-unholy-trinity-and-parody/CONCLUSION.md
+        - Analysis: studies/revs2-19-unholy-trinity-and-parody/03-analysis.md
+        - Verses: studies/revs2-19-unholy-trinity-and-parody/02-verses.md
+        - Word Studies: studies/revs2-19-unholy-trinity-and-parody/04-word-studies.md
+        - Topics: studies/revs2-19-unholy-trinity-and-parody/01-topics.md
+        - Research Scope: studies/revs2-19-unholy-trinity-and-parody/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/revs2-19-unholy-trinity-and-parody/raw-data/greek-parsing.md
+          - "Parallels Rev13 2 Nt": studies/revs2-19-unholy-trinity-and-parody/raw-data/parallels-rev13-2-nt.md
+          - "Parallels Rev13 2 Ot": studies/revs2-19-unholy-trinity-and-parody/raw-data/parallels-rev13-2-ot.md
+          - "Parallels Summary": studies/revs2-19-unholy-trinity-and-parody/raw-data/parallels-summary.md
+          - "Cross-Testament Parallels": studies/revs2-19-unholy-trinity-and-parody/raw-data/parallels.md
+      - "20 -- Telescoping & Recapitulation":
+        - studies/revs2-20-telescoping-and-recapitulation/conclusion-simple.md
+        - Conclusion: studies/revs2-20-telescoping-and-recapitulation/CONCLUSION.md
+        - Analysis: studies/revs2-20-telescoping-and-recapitulation/03-analysis.md
+        - Verses: studies/revs2-20-telescoping-and-recapitulation/02-verses.md
+        - Word Studies: studies/revs2-20-telescoping-and-recapitulation/04-word-studies.md
+        - Topics: studies/revs2-20-telescoping-and-recapitulation/01-topics.md
+        - Research Scope: studies/revs2-20-telescoping-and-recapitulation/PROMPT.md
+        - Raw Data:
+          - "Cross Testament Parallels": studies/revs2-20-telescoping-and-recapitulation/raw-data/cross-testament-parallels.md
+          - "Greek Parsing Endpoints": studies/revs2-20-telescoping-and-recapitulation/raw-data/greek-parsing-endpoints.md
+          - "Greek Parsing Theophany": studies/revs2-20-telescoping-and-recapitulation/raw-data/greek-parsing-theophany.md
+          - "Greek Parsing": studies/revs2-20-telescoping-and-recapitulation/raw-data/greek-parsing.md
+          - "Cross-Testament Parallels": studies/revs2-20-telescoping-and-recapitulation/raw-data/parallels.md
+      - "21 -- Already/Not-Yet":
+        - studies/revs2-21-already-not-yet-and-temporal/conclusion-simple.md
+        - Conclusion: studies/revs2-21-already-not-yet-and-temporal/CONCLUSION.md
+        - Analysis: studies/revs2-21-already-not-yet-and-temporal/03-analysis.md
+        - Verses: studies/revs2-21-already-not-yet-and-temporal/02-verses.md
+        - Word Studies: studies/revs2-21-already-not-yet-and-temporal/04-word-studies.md
+        - Topics: studies/revs2-21-already-not-yet-and-temporal/01-topics.md
+        - Research Scope: studies/revs2-21-already-not-yet-and-temporal/PROMPT.md
+        - Raw Data:
+          - "Cross Testament Parallels": studies/revs2-21-already-not-yet-and-temporal/raw-data/cross-testament-parallels.md
+          - "Greek Parsing": studies/revs2-21-already-not-yet-and-temporal/raw-data/greek-parsing.md
+          - "Greek Parsings": studies/revs2-21-already-not-yet-and-temporal/raw-data/greek-parsings.md
+          - "Hebrew Parsing": studies/revs2-21-already-not-yet-and-temporal/raw-data/hebrew-parsing.md
+          - "Hebrew Parsings": studies/revs2-21-already-not-yet-and-temporal/raw-data/hebrew-parsings.md
+          - "Cross-Testament Parallels": studies/revs2-21-already-not-yet-and-temporal/raw-data/parallels.md
+      - "22 -- Sanctuary-Temple Typology":
+        - studies/revs2-22-sanctuary-temple-typology/conclusion-simple.md
+        - Conclusion: studies/revs2-22-sanctuary-temple-typology/CONCLUSION.md
+        - Analysis: studies/revs2-22-sanctuary-temple-typology/03-analysis.md
+        - Verses: studies/revs2-22-sanctuary-temple-typology/02-verses.md
+        - Word Studies: studies/revs2-22-sanctuary-temple-typology/04-word-studies.md
+        - Topics: studies/revs2-22-sanctuary-temple-typology/01-topics.md
+        - Research Scope: studies/revs2-22-sanctuary-temple-typology/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/revs2-22-sanctuary-temple-typology/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/revs2-22-sanctuary-temple-typology/raw-data/hebrew-parsing.md
+          - "Cross-Testament Parallels": studies/revs2-22-sanctuary-temple-typology/raw-data/parallels.md
+
+    # ── Module 7 -- OT Typology & Canon ──
+    - "Module 7 -- OT Typology & Canon":
+
+      - "23 -- Exodus & Daniel Typology":
+        - studies/revs2-23-exodus-and-daniel-typology/conclusion-simple.md
+        - Conclusion: studies/revs2-23-exodus-and-daniel-typology/CONCLUSION.md
+        - Analysis: studies/revs2-23-exodus-and-daniel-typology/03-analysis.md
+        - Verses: studies/revs2-23-exodus-and-daniel-typology/02-verses.md
+        - Word Studies: studies/revs2-23-exodus-and-daniel-typology/04-word-studies.md
+        - Topics: studies/revs2-23-exodus-and-daniel-typology/01-topics.md
+        - Research Scope: studies/revs2-23-exodus-and-daniel-typology/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/revs2-23-exodus-and-daniel-typology/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/revs2-23-exodus-and-daniel-typology/raw-data/hebrew-parsing.md
+          - "Cross-Testament Parallels": studies/revs2-23-exodus-and-daniel-typology/raw-data/parallels.md
+      - "24 -- Ezekiel & Zechariah Typology":
+        - studies/revs2-24-ezekiel-and-zechariah-typology/conclusion-simple.md
+        - Conclusion: studies/revs2-24-ezekiel-and-zechariah-typology/CONCLUSION.md
+        - Analysis: studies/revs2-24-ezekiel-and-zechariah-typology/03-analysis.md
+        - Verses: studies/revs2-24-ezekiel-and-zechariah-typology/02-verses.md
+        - Word Studies: studies/revs2-24-ezekiel-and-zechariah-typology/04-word-studies.md
+        - Topics: studies/revs2-24-ezekiel-and-zechariah-typology/01-topics.md
+        - Research Scope: studies/revs2-24-ezekiel-and-zechariah-typology/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/revs2-24-ezekiel-and-zechariah-typology/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/revs2-24-ezekiel-and-zechariah-typology/raw-data/hebrew-parsing.md
+          - "Cross-Testament Parallels": studies/revs2-24-ezekiel-and-zechariah-typology/raw-data/parallels.md
+      - "25 -- Genesis Bookend & Canon":
+        - studies/revs2-25-genesis-bookend-and-canon/conclusion-simple.md
+        - Conclusion: studies/revs2-25-genesis-bookend-and-canon/CONCLUSION.md
+        - Verses: studies/revs2-25-genesis-bookend-and-canon/02-verses.md
+        - Word Studies: studies/revs2-25-genesis-bookend-and-canon/04-word-studies.md
+        - Topics: studies/revs2-25-genesis-bookend-and-canon/01-topics.md
+        - Research Scope: studies/revs2-25-genesis-bookend-and-canon/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/revs2-25-genesis-bookend-and-canon/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/revs2-25-genesis-bookend-and-canon/raw-data/hebrew-parsing.md
+          - "Cross-Testament Parallels": studies/revs2-25-genesis-bookend-and-canon/raw-data/parallels.md
+
+    # ── Module 8 -- Structural Synthesis ──
+    - "Module 8 -- Structural Synthesis":
+
+      - "26 -- Revelation Macro-Structure":
+        - studies/revs2-26-revelation-macro-structure/conclusion-simple.md
+        - Conclusion: studies/revs2-26-revelation-macro-structure/CONCLUSION.md
+        - Verses: studies/revs2-26-revelation-macro-structure/02-verses.md
+        - Word Studies: studies/revs2-26-revelation-macro-structure/04-word-studies.md
+        - Topics: studies/revs2-26-revelation-macro-structure/01-topics.md
+        - Research Scope: studies/revs2-26-revelation-macro-structure/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/revs2-26-revelation-macro-structure/raw-data/greek-parsing.md
+          - "Cross-Testament Parallels": studies/revs2-26-revelation-macro-structure/raw-data/parallels.md
+      - "27 -- Number System":
+        - studies/revs2-27-revelation-number-system/conclusion-simple.md
+        - Conclusion: studies/revs2-27-revelation-number-system/CONCLUSION.md
+        - Verses: studies/revs2-27-revelation-number-system/02-verses.md
+        - Word Studies: studies/revs2-27-revelation-number-system/04-word-studies.md
+        - Topics: studies/revs2-27-revelation-number-system/01-topics.md
+        - Research Scope: studies/revs2-27-revelation-number-system/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/revs2-27-revelation-number-system/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/revs2-27-revelation-number-system/raw-data/hebrew-parsing.md
+          - "Cross-Testament Parallels": studies/revs2-27-revelation-number-system/raw-data/parallels.md
+      - "28 -- OT Source Synthesis":
+        - studies/revs2-28-ot-source-synthesis/conclusion-simple.md
+        - Conclusion: studies/revs2-28-ot-source-synthesis/CONCLUSION.md
+        - Analysis: studies/revs2-28-ot-source-synthesis/03-analysis.md
+        - Verses: studies/revs2-28-ot-source-synthesis/02-verses.md
+        - Word Studies: studies/revs2-28-ot-source-synthesis/04-word-studies.md
+        - Topics: studies/revs2-28-ot-source-synthesis/01-topics.md
+        - Research Scope: studies/revs2-28-ot-source-synthesis/PROMPT.md
+        - Raw Data:
+          - "An Tier Full List": studies/revs2-28-ot-source-synthesis/raw-data/an-tier-full-list.md
+          - "Greek Parsing": studies/revs2-28-ot-source-synthesis/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/revs2-28-ot-source-synthesis/raw-data/hebrew-parsing.md
+          - "Cross-Testament Parallels": studies/revs2-28-ot-source-synthesis/raw-data/parallels.md
+      - "29 -- Chronological Model Assessment":
+        - studies/revs2-29-chronological-model-assessment/conclusion-simple.md
+        - Conclusion: studies/revs2-29-chronological-model-assessment/CONCLUSION.md
+        - Analysis: studies/revs2-29-chronological-model-assessment/03-analysis.md
+        - Verses: studies/revs2-29-chronological-model-assessment/02-verses.md
+        - Word Studies: studies/revs2-29-chronological-model-assessment/04-word-studies.md
+        - Topics: studies/revs2-29-chronological-model-assessment/01-topics.md
+        - Research Scope: studies/revs2-29-chronological-model-assessment/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/revs2-29-chronological-model-assessment/raw-data/greek-parsing.md
+          - "Cross-Testament Parallels": studies/revs2-29-chronological-model-assessment/raw-data/parallels.md
+      - "30 -- Grand Structural Synthesis":
+        - studies/revs2-30-grand-structural-synthesis/conclusion-simple.md
+        - Conclusion: studies/revs2-30-grand-structural-synthesis/CONCLUSION.md
+        - Analysis: studies/revs2-30-grand-structural-synthesis/03-analysis.md
+        - Verses: studies/revs2-30-grand-structural-synthesis/02-verses.md
+        - Word Studies: studies/revs2-30-grand-structural-synthesis/04-word-studies.md
+        - Topics: studies/revs2-30-grand-structural-synthesis/01-topics.md
+        - Research Scope: studies/revs2-30-grand-structural-synthesis/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/revs2-30-grand-structural-synthesis/raw-data/greek-parsing.md
+          - "Cross-Testament Parallels": studies/revs2-30-grand-structural-synthesis/raw-data/parallels.md
+
+    # ── Part 2 -- Interpretive Application ──
+    - "Part 2 -- Interpretive Application":
+
+      - "31 -- Seven Churches":
+        - studies/revs2-31-seven-churches-historical-universal/conclusion-simple.md
+        - Conclusion: studies/revs2-31-seven-churches-historical-universal/CONCLUSION.md
+        - Analysis: studies/revs2-31-seven-churches-historical-universal/03-analysis.md
+        - Verses: studies/revs2-31-seven-churches-historical-universal/02-verses.md
+        - Word Studies: studies/revs2-31-seven-churches-historical-universal/04-word-studies.md
+        - Topics: studies/revs2-31-seven-churches-historical-universal/01-topics.md
+        - Research Scope: studies/revs2-31-seven-churches-historical-universal/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/revs2-31-seven-churches-historical-universal/raw-data/greek-parsing.md
+          - "Cross-Testament Parallels": studies/revs2-31-seven-churches-historical-universal/raw-data/parallels.md
+      - "32 -- Seals, Trumpets & Bowls":
+        - studies/revs2-32-seals-trumpets-bowls-structure/conclusion-simple.md
+        - Conclusion: studies/revs2-32-seals-trumpets-bowls-structure/CONCLUSION.md
+        - Analysis: studies/revs2-32-seals-trumpets-bowls-structure/03-analysis.md
+        - Verses: studies/revs2-32-seals-trumpets-bowls-structure/02-verses.md
+        - Word Studies: studies/revs2-32-seals-trumpets-bowls-structure/04-word-studies.md
+        - Topics: studies/revs2-32-seals-trumpets-bowls-structure/01-topics.md
+        - Research Scope: studies/revs2-32-seals-trumpets-bowls-structure/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/revs2-32-seals-trumpets-bowls-structure/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/revs2-32-seals-trumpets-bowls-structure/raw-data/hebrew-parsing.md
+          - "Cross-Testament Parallels": studies/revs2-32-seals-trumpets-bowls-structure/raw-data/parallels.md
+      - "33 -- Beast of Revelation 13":
+        - studies/revs2-33-beast-of-revelation-13/conclusion-simple.md
+        - Conclusion: studies/revs2-33-beast-of-revelation-13/CONCLUSION.md
+        - Analysis: studies/revs2-33-beast-of-revelation-13/03-analysis.md
+        - Verses: studies/revs2-33-beast-of-revelation-13/02-verses.md
+        - Word Studies: studies/revs2-33-beast-of-revelation-13/04-word-studies.md
+        - Topics: studies/revs2-33-beast-of-revelation-13/01-topics.md
+        - Research Scope: studies/revs2-33-beast-of-revelation-13/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/revs2-33-beast-of-revelation-13/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/revs2-33-beast-of-revelation-13/raw-data/hebrew-parsing.md
+          - "Cross-Testament Parallels": studies/revs2-33-beast-of-revelation-13/raw-data/parallels.md
+      - "34 -- Babylon":
+        - studies/revs2-34-babylon-what-and-who/conclusion-simple.md
+        - Conclusion: studies/revs2-34-babylon-what-and-who/CONCLUSION.md
+        - Analysis: studies/revs2-34-babylon-what-and-who/03-analysis.md
+        - Verses: studies/revs2-34-babylon-what-and-who/02-verses.md
+        - Word Studies: studies/revs2-34-babylon-what-and-who/04-word-studies.md
+        - Topics: studies/revs2-34-babylon-what-and-who/01-topics.md
+        - Research Scope: studies/revs2-34-babylon-what-and-who/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/revs2-34-babylon-what-and-who/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/revs2-34-babylon-what-and-who/raw-data/hebrew-parsing.md
+          - "Cross-Testament Parallels": studies/revs2-34-babylon-what-and-who/raw-data/parallels.md
+      - "35 -- The Millennium":
+        - studies/revs2-35-millennium-of-revelation-20/conclusion-simple.md
+        - Conclusion: studies/revs2-35-millennium-of-revelation-20/CONCLUSION.md
+        - Analysis: studies/revs2-35-millennium-of-revelation-20/03-analysis.md
+        - Verses: studies/revs2-35-millennium-of-revelation-20/02-verses.md
+        - Word Studies: studies/revs2-35-millennium-of-revelation-20/04-word-studies.md
+        - Topics: studies/revs2-35-millennium-of-revelation-20/01-topics.md
+        - Research Scope: studies/revs2-35-millennium-of-revelation-20/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/revs2-35-millennium-of-revelation-20/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/revs2-35-millennium-of-revelation-20/raw-data/hebrew-parsing.md
+      - "36 -- Mark of the Beast":
+        - studies/revs2-36-mark-of-the-beast/conclusion-simple.md
+        - Conclusion: studies/revs2-36-mark-of-the-beast/CONCLUSION.md
+        - Analysis: studies/revs2-36-mark-of-the-beast/03-analysis.md
+        - Verses: studies/revs2-36-mark-of-the-beast/02-verses.md
+        - Word Studies: studies/revs2-36-mark-of-the-beast/04-word-studies.md
+        - Topics: studies/revs2-36-mark-of-the-beast/01-topics.md
+        - Research Scope: studies/revs2-36-mark-of-the-beast/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/revs2-36-mark-of-the-beast/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/revs2-36-mark-of-the-beast/raw-data/hebrew-parsing.md
+          - "Cross-Testament Parallels": studies/revs2-36-mark-of-the-beast/raw-data/parallels.md
+      - "37 -- Three Angels' Messages":
+        - studies/revs2-37-three-angels-architecture/conclusion-simple.md
+        - Conclusion: studies/revs2-37-three-angels-architecture/CONCLUSION.md
+        - Analysis: studies/revs2-37-three-angels-architecture/03-analysis.md
+        - Verses: studies/revs2-37-three-angels-architecture/02-verses.md
+        - Word Studies: studies/revs2-37-three-angels-architecture/04-word-studies.md
+        - Topics: studies/revs2-37-three-angels-architecture/01-topics.md
+        - Research Scope: studies/revs2-37-three-angels-architecture/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/revs2-37-three-angels-architecture/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/revs2-37-three-angels-architecture/raw-data/hebrew-parsing.md
+      - "38 -- New Creation":
+        - studies/revs2-38-new-creation-structural-foundations/conclusion-simple.md
+        - Conclusion: studies/revs2-38-new-creation-structural-foundations/CONCLUSION.md
+        - Analysis: studies/revs2-38-new-creation-structural-foundations/03-analysis.md
+        - Verses: studies/revs2-38-new-creation-structural-foundations/02-verses.md
+        - Word Studies: studies/revs2-38-new-creation-structural-foundations/04-word-studies.md
+        - Topics: studies/revs2-38-new-creation-structural-foundations/01-topics.md
+        - Research Scope: studies/revs2-38-new-creation-structural-foundations/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/revs2-38-new-creation-structural-foundations/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/revs2-38-new-creation-structural-foundations/raw-data/hebrew-parsing.md
+      - "39 -- Grand Interpretive Synthesis":
+        - studies/revs2-39-message-of-revelation-grand-synthesis/conclusion-simple.md
+        - Conclusion: studies/revs2-39-message-of-revelation-grand-synthesis/CONCLUSION.md
+        - Analysis: studies/revs2-39-message-of-revelation-grand-synthesis/03-analysis.md
+        - Verses: studies/revs2-39-message-of-revelation-grand-synthesis/02-verses.md
+        - Word Studies: studies/revs2-39-message-of-revelation-grand-synthesis/04-word-studies.md
+        - Topics: studies/revs2-39-message-of-revelation-grand-synthesis/01-topics.md
+        - Research Scope: studies/revs2-39-message-of-revelation-grand-synthesis/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/revs2-39-message-of-revelation-grand-synthesis/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/revs2-39-message-of-revelation-grand-synthesis/raw-data/hebrew-parsing.md
+          - "Cross-Testament Parallels": studies/revs2-39-message-of-revelation-grand-synthesis/raw-data/parallels.md
+      - "40 -- Earth Beast & False Prophet":
+        - studies/revs2-40-earth-beast-false-prophet/conclusion-simple.md
+        - Conclusion: studies/revs2-40-earth-beast-false-prophet/CONCLUSION.md
+        - Analysis: studies/revs2-40-earth-beast-false-prophet/03-analysis.md
+        - Verses: studies/revs2-40-earth-beast-false-prophet/02-verses.md
+        - Word Studies: studies/revs2-40-earth-beast-false-prophet/04-word-studies.md
+        - Topics: studies/revs2-40-earth-beast-false-prophet/01-topics.md
+        - Research Scope: studies/revs2-40-earth-beast-false-prophet/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/revs2-40-earth-beast-false-prophet/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/revs2-40-earth-beast-false-prophet/raw-data/hebrew-parsing.md
+          - "Cross-Testament Parallels": studies/revs2-40-earth-beast-false-prophet/raw-data/parallels.md
+
+  - Methodology: methodology.md
+  - "Tools & Process": tools.md

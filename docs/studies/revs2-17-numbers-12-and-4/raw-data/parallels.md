@@ -1,0 +1,17 @@
+# Cross-Testament Parallels
+
+- Rev 21:12 → Eze 48:31-34 (ot, structural + vocabulary (gate, name, tribe))
+- Rev 4:6-8 → Eze 1:4-14 (ot, structural (four living creatures, four faces))
+- Rev 4:8 → Isa 6:1-3 (ot, vocabulary + structural (six wings, trisagion))
+- Rev 7:1 → Zec 6:5 (ot, vocabulary + structural (four, wind, stand))
+- Rev 7:1 → Jer 49:36 (ot, vocabulary (four winds))
+- Rev 5:9 → Dan 3:4 (ot, structural (universal formula expanded from threefold to fourfold))
+- Rev 5:9 → Dan 7:14 (ot, structural + theological (universal formula, dominion given to messianic figure))
+- Rev 21:16 → 1 Ki 6:20 (ot, structural (perfect cube — Holy of Holies → New Jerusalem))
+- Rev 6:8 → Eze 14:21 (ot, vocabulary + structural (four sore judgments → fourfold killing means))
+- Rev 5:10 → Exo 19:6 (ot, vocabulary + theological (kingdom of priests))
+- Rev 4:4 → 1 Chr 24:1-19 (ot, structural (24 priestly courses → 24 elders))
+- Rev 21:12 → Rev 21:14 (nt, structural (12 gates + 12 foundations = OT + NT union))
+- Rev 5:9 → Rev 13:7 (nt, antithetical (ek vs epi — redeemed OUT OF vs authority OVER same fourfold humanity))
+- Rev 7:4 → Rev 7:9 (nt, hear/see pattern (hear 144,000 → see great multitude, paralleling hear Lion → see Lamb in 5:5-6))
+- Rev 12:1 → Rev 12:3 (nt, antithetical (twelve stars on woman vs seven heads on dragon — 12=positive, 7=demonic capable))

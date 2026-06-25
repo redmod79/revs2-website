@@ -1,0 +1,17 @@
+# Cross-Testament Parallels
+
+- Rev 4:2 → Dan 7:9 (ot, structural + vocabulary — thrones placed, seated figure, fire)
+- Rev 4:5 → Exo 19:16 (ot, vocabulary — thunders, lightnings, voice; Sinai theophany source)
+- Rev 4:6-8 → Ezek 1:4-28 (ot, structural + vocabulary — four living creatures, eyes, crystal, throne above)
+- Rev 4:8 → Isa 6:3 (ot, vocabulary — trisagion (Holy holy holy), six wings)
+- Rev 5:5 → Gen 49:9-10 (ot, vocabulary — Lion of the tribe of Judah)
+- Rev 5:6 → Isa 53:7 (ot, vocabulary + thematic — lamb led to slaughter)
+- Rev 5:6 → Zech 4:2,10 (ot, explicit decoder — seven eyes = eyes of the LORD = Spirit)
+- Rev 5:11 → Dan 7:10 (ot, vocabulary — identical myriads formula (thousand thousands / ten thousand times ten thousand))
+- Rev 11:19 → Exo 25:10-22 (ot, vocabulary — ark of the covenant (kibotos tes diathēkēs) = MHP furniture)
+- Rev 15:8 → Exo 40:34-35 (ot, structural + vocabulary — glory fills, no one can enter)
+- Rev 15:8 → Lev 16:17 (ot, structural — no man in the tabernacle until atonement complete)
+- Rev 21:16 → 1 Ki 6:20 (ot, structural — cube dimensions = Holy of Holies)
+- Rev 21:22 → Ezek 48:35 (ot, thematic — city identified with divine presence (Ezek: YHWH is there; Rev: God and Lamb ARE the temple))
+- Rev 1:4 → Exo 3:14 (ot, vocabulary — divine name (I AM / ho ōn) with solecistic nominative allusion)
+- Rev 4:4 → 1 Chr 24:1-19 (ot, structural — 24 priestly courses = 24 elders)

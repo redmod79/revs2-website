@@ -1,0 +1,18 @@
+# Cross-Testament Parallels
+
+- Rev 2:1 → Rev 1:16 (nt, vocabulary + structural (self-ID source mapping))
+- Rev 2:1 → Rev 1:13 (nt, vocabulary (en meso→peripateo en meso intensification))
+- Rev 2:1 → Rev 3:1 (nt, vocabulary (both share aster/stars; tool hybrid score 0.558))
+- Rev 2:9 → Rev 3:9 (nt, vocabulary (synagoge tou Satana formula; 8+ shared elements))
+- Rev 2:18 → Dan 10:6 (ot, vocabulary + structural (eyes/fire, feet/brass theophany; tool hybrid score 0.379))
+- Rev 3:7 → Isa 22:22 (ot, near-quotation (key of David open/shut formula; tool hybrid score 0.399; AN017 Strong))
+- Rev 3:14 → Rev 1:5 (nt, vocabulary (faithful witness title; prologue source))
+- Rev 3:14 → Rev 19:11 (nt, vocabulary (pistos kai alethinos; possible forward reference))
+- Rev 3:14 → Col 1:18 (nt, vocabulary (arche + creation language))
+- Rev 3:14 → Isa 65:16 (ot, vocabulary (elohei amen → ho Amen; AN018 Probable))
+- Rev 1:14 → Dan 7:9 (ot, vocabulary + structural (white hair/wool; Ancient of Days merger; AN015 Strong))
+- Rev 1:13-16 → Dan 10:5-6 (ot, vocabulary + structural (comprehensive theophany composite; AN016 Strong))
+- Rev 21:7 → Rev 3:21 (nt, vocabulary (nikao overcomer + inheritance; tool hybrid score 0.403))
+- Rev 21:7 → Rev 3:12 (nt, vocabulary (nikao overcomer + temple/name; tool hybrid score 0.405))
+- Exo 25:31-37 → Rev 1:12 (ot, structural (menorah design → seven golden lampstands))
+- Isa 44:6 → Rev 1:17 (ot, vocabulary (first and last title; YHWH→Christ transfer))

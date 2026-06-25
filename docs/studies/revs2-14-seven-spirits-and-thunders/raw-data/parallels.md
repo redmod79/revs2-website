@@ -1,0 +1,16 @@
+# Cross-Testament Parallels
+
+- Rev 4:5 → Rev 5:6 (nt, vocabulary + structural: both identify the seven Spirits; lamps of fire (4:5) / seven eyes (5:6))
+- Rev 4:5 → Rev 1:4 (nt, vocabulary: seven Spirits before the throne; both use hepta Pneumata)
+- Rev 5:6 → Zech 4:10 (ot, vocabulary + structural (VP099, 5 elements): seven, eyes, sent/running, whole, earth)
+- Rev 4:5 → Zech 4:2 (ot, vocabulary + structural (VP100, 4 elements): seven, lamps, positional context, burning)
+- Rev 5:6 → Zech 3:9 (ot, allusion (AN042): seven eyes, messianic figure, sin-removal context)
+- Rev 10:4 → Dan 12:4 (ot, vocabulary + structural: seal command, book/content, prophetic context; contrast in temporal limit)
+- Rev 10:5-7 → Dan 12:7 (ot, structural (VP090, 5 elements): figure upon waters, hand raised, oath by eternal God, time declaration, creation context)
+- Rev 10:3-4 → 2 Cor 12:4 (nt, structural + vocabulary: comprehensible divine speech withheld; both use laleo (G2980))
+- Rev 10:3 → Psa 29:3-9 (ot, conceptual (VP133, 3 elements): thunder as divine speech, seven occurrences, personification)
+- Rev 22:10 → Dan 12:4 (ot, antithetical: Daniel told to seal; John told NOT to seal; same concept, opposite command)
+- Rev 10:3 → John 12:28-29 (nt, conceptual inverse: in John 12, divine voice mistaken for thunder; in Rev 10, thunder IS divine speech)
+- Rev 1:4 → Rom 1:7 (nt, structural: greeting formula comparison; Rom biadic (Father + Lord), Rev triadic (Father + Spirits + Christ))
+- Rev 11:4 → Zech 4:3 (ot, allusion: two olive trees and lampstands; Zechariah source for Revelation's two witnesses)
+- Zech 4:10 → 2 Chr 16:9 (ot, vocabulary: both use 'eyes of the LORD run to and fro throughout the whole earth' — same vocabulary (einei YHWH, meshotetim, bekhol-ha'arets))
